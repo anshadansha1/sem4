@@ -1,0 +1,16 @@
+{
+  "name": "anshad",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node script",
+    "dev": "nodemon script"
+  },
+  "author": "anshadansha1",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
